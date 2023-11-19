@@ -8,3 +8,4 @@
 /admin
 /config
 *.vs
+/App.config
